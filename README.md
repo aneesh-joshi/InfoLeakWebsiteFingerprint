@@ -1,3 +1,3 @@
 # InfoLeakWebsiteFingerprint
 
-My attempts are understanding the code
+My attempts at understanding the code
